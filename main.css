@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body {
+  color: #4b4b4b;
+  font-family: Roboto;
+  font-size: 16px;
+  margin: 0;
+}
+
+h1 {
+  color: #ebcb80;
+  display: inline-block;
+  font-size: 36px;
+  margin: 55px 0 58px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container {
+  height: 100%;
+  margin: auto;
+  width: 1130px;
+}

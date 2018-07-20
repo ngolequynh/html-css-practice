@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #4b4b4b;
+  height: 156px;
+  width: 100%;
+}
+
+.navbar ul {
+  display: inline-block;
+}
+
+.navbar ul > li {
+  display: inline-block;
+}
+
+.navbar ul > li a {
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0.0555556em;
+  padding: 22px;
+}
+
+.navbar ul > li [role="button"] {
+  border: 2px solid #ffffff;
+  border-radius: 50px;
+  letter-spacing: 0.05em;
+  padding: 30px;
+}
