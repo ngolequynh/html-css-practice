@@ -17,6 +17,15 @@ h1 {
   margin: 55px 0 58px;
 }
 
+h2 {
+  margin: 0;
+  line-height: 48px;
+  font-size: 44px;
+  text-align: center;
+  letter-spacing: -0.0363636em;
+  font-weight: normal;
+}
+
 a {
   text-decoration: none;
 }

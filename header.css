@@ -5,7 +5,8 @@
 }
 
 .navbar ul {
-  display: inline-block;
+  float: right;
+  margin-top: 67px;
 }
 
 .navbar ul > li {
@@ -19,9 +20,18 @@
   padding: 22px;
 }
 
+.navbar ul > li a:hover {
+  color: #f1f1f1f1;
+}
+
 .navbar ul > li [role="button"] {
   border: 2px solid #ffffff;
   border-radius: 50px;
   letter-spacing: 0.05em;
   padding: 30px;
+}
+
+.navbar ul > li [role="button"]:hover {
+  color: #4b4b4b;
+  background-color: #ffffff;
 }
