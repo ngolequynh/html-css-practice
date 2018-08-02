@@ -1,0 +1,41 @@
+.advantage {
+  background-color: #4b4b4b;
+  text-align: center;
+  padding-top: 44px;
+  padding-bottom: 91px;
+  color: #ffffff;
+}
+
+.advantage .card {
+  background: linear-gradient(
+    226.22deg,
+    rgba(0, 0, 0, 0.0001) 4.85%,
+    rgba(0, 0, 0, 0.401127) 96.5%
+  );
+}
+
+#advantage-title {
+  padding-bottom: 20px;
+}
+
+#advantage-subtitle {
+  width: 35%;
+  margin: 0 auto;
+  padding-bottom: 33px;
+}
+
+.advantage .card-title {
+  color: #ebcb80;
+}
+
+.advantage-info-title {
+  letter-spacing: 0.0625em;
+  margin: 30px auto 4px;
+}
+
+.advantage-info-detail {
+  line-height: 24px;
+  width: 65.5%;
+  margin: 0 auto;
+  padding-bottom: 28px;
+}
