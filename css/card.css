@@ -20,7 +20,6 @@
   border-radius: 50px;
   letter-spacing: 0.0625em;
   border: none;
-  cursor: pointer;
 }
 
 .card button:hover {
