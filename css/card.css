@@ -1,0 +1,28 @@
+.card {
+  width: 31%;
+  background-blend-mode: multiply;
+  border-radius: 8px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5);
+  padding-bottom: 36px;
+}
+
+.card-title {
+  font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, Geneva, Verdana,
+    sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.0555556em;
+}
+
+.card button {
+  width: 198px;
+  height: 48px;
+  background: #ebcb80;
+  border-radius: 50px;
+  letter-spacing: 0.0625em;
+  border: none;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background: linear-gradient(#ead39d, #ebcb80);
+}

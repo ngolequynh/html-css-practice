@@ -10,12 +10,6 @@
   padding-bottom: 57px;
 }
 
-.team-members {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
 .member-info {
   width: 30%;
   height: 162px;
@@ -24,17 +18,11 @@
   margin-bottom: 80px;
 }
 
-.img-wrap {
+.team .img-wrap {
   width: 80px;
   height: 80px;
   float: left;
   margin-right: 17px;
-}
-
-.img-wrap img {
-  width: 100%;
-  height: 100%;
-  object-fit: none;
 }
 
 .todd {
