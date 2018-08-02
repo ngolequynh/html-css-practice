@@ -39,3 +39,9 @@ li {
   margin: auto;
   width: 1130px;
 }
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
