@@ -44,7 +44,6 @@
   transition: transform 0.2s;
   background-color: transparent;
   color: #4b4b4b;
-  cursor: pointer;
 }
 
 .find input[type="submit"]:hover {
