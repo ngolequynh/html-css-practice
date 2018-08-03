@@ -5,8 +5,8 @@ footer {
 }
 
 footer a,
-p,
-img {
+footer p,
+footer img {
   color: #ffffff;
   opacity: 0.5;
 }
