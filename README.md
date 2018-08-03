@@ -1,7 +1,7 @@
 # html-css-practice
 
 Build a web page with html/css.
-html-css-practice.herokuapp.com
+https://html-css-practice.herokuapp.com
 Structure of web page
 
 1.  Navbar
