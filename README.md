@@ -2,6 +2,8 @@
 
 Build a web page with html/css
 
+Only work well on large screen. None-responsive.
+
 https://html-css-practice.herokuapp.com
 
 Structure of web page
