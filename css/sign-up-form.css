@@ -1,0 +1,70 @@
+.sign-up {
+  background: url(../img/background2.png) no-repeat center;
+  height: 588px;
+  text-align: center;
+  padding-top: 72px;
+  padding-bottom: 48px;
+}
+
+#sign-up-title {
+  color: #ffffff;
+  padding-bottom: 36px;
+}
+
+.sign-up .card {
+  margin: 0 auto;
+  background: linear-gradient(
+      225.94deg,
+      rgba(255, 255, 255, 0.7) 5.13%,
+      rgba(255, 255, 255, 7e-5) 90.88%
+    )
+    #4b4b4b;
+  padding-bottom: 0px;
+}
+
+.sign-up .card-title {
+  color: #ebcb80;
+  padding-top: 28px;
+  padding-bottom: 4px;
+  margin: 0;
+}
+
+.sign-up input {
+  width: 256px;
+  height: 48px;
+  background: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  margin: 12px auto;
+  padding: 10px;
+}
+
+.sign-up input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.sign-up a {
+  display: block;
+  color: #ebcb80;
+  text-decoration: underline;
+  padding-top: 15px;
+}
+
+.sign-up a:hover {
+  color: #ffffff;
+}
+
+.sign-up input[type="button"] {
+  background: #ebcb80;
+  border-radius: 50px;
+  width: 198px;
+  border: none;
+  margin: 20px auto 24px;
+  cursor: pointer;
+}
+
+.sign-up input[type="button"]:hover {
+  background: linear-gradient(#ead39d, #ebcb80);
+}
