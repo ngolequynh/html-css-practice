@@ -30,7 +30,9 @@ a {
   text-decoration: none;
 }
 
-button {
+button,
+input[type="button"],
+input[type="submit"] {
   cursor: pointer;
 }
 
