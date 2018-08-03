@@ -1,0 +1,80 @@
+footer {
+  height: 710px;
+  background-color: #4b4b4b;
+  line-height: 24px;
+}
+
+footer a,
+p,
+img {
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* map */
+
+.footer-map {
+  height: 400px;
+}
+
+/* social */
+
+.footer-social {
+  margin: 30px auto;
+}
+
+.footer-social-title {
+  font-size: 18px;
+  letter-spacing: 0.0555556em;
+  line-height: 14px;
+  margin-bottom: 24px;
+  opacity: 1;
+}
+
+.footer-social-contact {
+  width: 40%;
+}
+
+.footer-social-follow {
+  width: 15%;
+}
+
+.footer-social-follow .img-wrap {
+  height: 30px;
+  width: 30px;
+}
+
+.footer-social-about {
+  width: 30%;
+}
+
+/* footer go to */
+.footer-goto {
+  border-top: 1px solid #7d7d7d;
+  padding-top: 30px;
+}
+
+.footer-goto ul li {
+  display: inline-block;
+  margin-right: 42px;
+}
+
+.footer-goto ul li a {
+  opacity: 1;
+}
+
+.footer-goto button {
+  background: url("../img/icons/go-to-top.png") no-repeat center;
+  background-color: #ebcb80;
+  width: 36px;
+  height: 36px;
+  transition: all 0.3s ease;
+}
+
+.footer-goto button:hover {
+  background-position-y: 5px;
+}
